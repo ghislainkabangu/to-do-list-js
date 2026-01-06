@@ -49,5 +49,3 @@ dans ton navigateur.
 **Kabangu Nsenda Ghislain**
 
 ---
-
-Si tu veux, je peux aussi te créer une version en anglais ou ajouter des badges (HTML, CSS, JS, etc.).
